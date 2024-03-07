@@ -49,31 +49,14 @@ Let's connect and collaborate on future-forward projects that make a real-world 
 </div>
 <br />
 
-## Experience
+#
 
-### Matsing | Software Engineer Intern (Jan 2023 - Present)
+### Stats
 
-- Led the development of customer service applications using Python and Django, reducing ticket resolution time by 45%.
-- Created CI/CD pipelines with Git and AWS CodeStar, enhancing development efficiency and deployment reliability.
-- Developed a Spring Boot Product Line Management application, integrating robust APIs and optimizing for performance and scalability.
-- Migrated AWS applications from Elastic Beanstalk to ECS using Docker, reducing monthly hosting costs by 40%.
+<a href="https://github.com/Faateh-personal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Faateh-personal&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/Faateh-personal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faateh-personal&layout=compact&theme=dracula" />
+</a>
 
-### HTNA | Software Engineer Intern (Sept 2021 - Dec 2021)
-
-- Collaborated on front-end development using HTML, CSS, and React.js to improve website aesthetics and functionality.
-- Engaged in backend web development with Python and Flask for a timesheet application, enhancing robustness and efficiency.
-- Performed API testing with Postman, enhancing RESTful service reliability and integration.
-
-## Projects
-
-### RMA Management Platform
-
-- Developed a user-friendly RMA management platform using Flask, PostgreSQL, and AWS (Elastic Beanstalk, CodePipelines, RDS), with a front-end in JS, HTML, and CSS, and crafted REST APIs for streamlined returns, exchanges, and repairs.
-
-### Automated Backup System
-
-- Developed an Automated Backup System in Python that compresses and encrypts files before uploading to AWS S3, featuring configurable backup directories and schedules with comprehensive logging for monitoring and troubleshooting.
-
----
-
-Feel free to reach out to me for collaborations or any questions!
