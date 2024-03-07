@@ -1,20 +1,25 @@
 <h1 align="center">Faateh Shoaib</h1>
-<p align="center">
-  <a href="mailto:faateh.work@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/email-open.png" alt="Email" width="24"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/faateh-s">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="24"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Faateh-personal">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="24"/>
-  </a>
-  &nbsp;
-  <img src="https://img.icons8.com/fluent/48/000000/map-marker.png" alt="Location" width="24"/>
-  Arlington, Texas
-</p>
+<ul style="list-style-type: none; text-align: center;">
+  <li>
+    <a href="mailto:faateh.work@gmail.com">
+      <img src="https://img.icons8.com/fluent/48/000000/email-open.png" alt="Email" width="24"/>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/faateh-s">
+      <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="24"/>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/Faateh-personal">
+      <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="24"/>
+    </a>
+  </li>
+  <li>
+    <img src="https://img.icons8.com/fluent/48/000000/map-marker.png" alt="Location" width="24"/>
+    Arlington, Texas
+  </li>
+</ul>
 
 
 ## Tech Stack
