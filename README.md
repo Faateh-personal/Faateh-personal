@@ -1,5 +1,5 @@
 <h1 align="center">Faateh Shoaib</h1>
-<div align="center" style="text-decoration: none;">
+<div align="center">
   <a href="mailto:faateh.work@gmail.com" style="text-decoration: unset;">
     <img src="https://img.icons8.com/fluent/48/000000/email-open.png" alt="Email" width="24"/>
   </a>
