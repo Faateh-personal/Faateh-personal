@@ -9,8 +9,6 @@
   <a href="https://github.com/Faateh-personal">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="24"/>
   </a>
-  <img src="https://img.icons8.com/fluent/48/000000/map-marker.png" alt="Location" width="24"/>
-  Arlington, Texas
 </div>
 
 
