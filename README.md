@@ -1,15 +1,18 @@
 <h1 align="center">Faateh Shoaib</h1>
-<div align="center">
-  <a href="mailto:faateh.work@gmail.com">
+<div align="center" style="text-decoration: none;">
+  <a href="mailto:faateh.work@gmail.com" style="text-decoration: none;">
     <img src="https://img.icons8.com/fluent/48/000000/email-open.png" alt="Email" width="24"/>
   </a>
-  <a href="https://www.linkedin.com/in/faateh-s">
+  <a href="https://www.linkedin.com/in/faateh-s" style="text-decoration: none;">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="24"/>
   </a>
-  <a href="https://github.com/Faateh-personal">
+  <a href="https://github.com/Faateh-personal" style="text-decoration: none;">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="24"/>
   </a>
+  <img src="https://img.icons8.com/fluent/48/000000/map-marker.png" alt="Location" width="24"/>
+  Arlington, Texas
 </div>
+
 
 
 ## Tech Stack
