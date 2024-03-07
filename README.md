@@ -1,18 +1,21 @@
 <h1 align="center">Faateh Shoaib</h1>
 <p align="center">
-  <strong>Location:</strong> Arlington, Texas <br>
-  <strong>Contact:</strong> <a href="mailto:faateh.work@gmail.com">faateh.work@gmail.com</a> <br>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/faateh-s">faateh-s</a> <br>
-  <strong>GitHub:</strong> <a href="https://github.com/Faateh-personal">Faateh-personal</a>
+  <a href="mailto:faateh.work@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/email-open.png" alt="Email" width="24"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/faateh-s">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="24"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Faateh-personal">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="24"/>
+  </a>
+  &nbsp;
+  <img src="https://img.icons8.com/fluent/48/000000/map-marker.png" alt="Location" width="24"/>
+  Arlington, Texas
 </p>
 
-## Education
-
-- **Bachelor of Science in Computer Science** (Expected Graduation: 2025)  
-  The University of Texas at Arlington
-
-- **Associate of Science in Computer Science**  
-  North Lake College (DCCCD) - GPA: 3.66
 
 ## Tech Stack
 
