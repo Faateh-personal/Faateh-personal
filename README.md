@@ -1,13 +1,14 @@
-
-# <img src="https://github.com/Faateh-personal/Faateh-personal/assets/159087891/764dd7e7-b40e-42db-b9ad-db18c8dc3157" alt="Faateh Shoaib" style="width: 50px; height: 50px; margin-right: 20px; "> Faateh Shoaib
-
+<div align="center">
+  <img src="https://github.com/Faateh-personal/Faateh-personal/assets/159087891/764dd7e7-b40e-42db-b9ad-db18c8dc3157" alt="Faateh Shoaib" style="width: 50px; height: 50px; margin-right: 20px; "> 
+  <h1>Faateh Shoaib</h1>
+</div>
 
 As a software engineering intern at MatSing, I've honed my skills in backend solutions and cloud services, with a keen eye for enhancing performance and reducing costs. My journey at The University of Texas at Arlington has further solidified my technical expertise, with a targeted focus on Computer Science, set to culminate in 2025.
 
 I'm deeply passionate about open source and its potential to drive innovation. By blending my industry experience with academic knowledge, I aim to contribute meaningful solutions to the open source community.
 
 Let's connect and collaborate on future-forward projects that make a real-world impact!
-<div align="left">
+<div align="center">
   <a href="mailto:faateh.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="height:30px;"/>
   </a>
@@ -22,18 +23,26 @@ Let's connect and collaborate on future-forward projects that make a real-world 
 
 ---
 
-## ⚒️ Languages and Tools
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,cpp,html,css,go,flask,spring,bootstrap,git,kubernetes,docker,postgres,aws)](https://skillicons.dev)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,go,javascript,c,java,cpp,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,spring,bootstrap,selenium,git,flask,django,docker,kubernetes,terraform" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb" /><br>
+</div>
 
 <br />
 
 
 #
 
-## ⚡Stats
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
-[![Faateh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faateh-personal&show_icons=true&theme=radical&rank_icon=github&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faateh-personal&layout=compact&theme=radical)
+<div align=center>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Faateh-personal&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Faateh-personal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 
